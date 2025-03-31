@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Rock-Paper-Scissors</title>
+</head>
+<body>
+    <h1>Rock - Paper - Scissors</h1>
+    
+    <div class="choices">
+        <button id="btn1" onclick="gameOn('rock')"><img src="images/rock.jpg"></button> <!-- option rock -->
+        <button onclick="gameOn('paper')">✋</button> <!-- option paper-->
+        <button onclick="gameOn('scissors')">✌</button> <!-- option scissor-->
+    </div> 
+
+    <div id="playerDisplay">PLAYER: </div> <!--the player choice dynamically gets displayed here-->
+    <div id="computerDisplay">COMPUTER: </div> <!--the computer random choice get displayed here-->
+    <div id="resultDisplay"></div> <!--Win or Lose result gets dynically displayed-->
+
+    <div class="scoreDisplay">Player Score: 
+        <span id="playerScoreDisplay">0</span>
+    </div> <!--the player score dynamically gets displayed here-->
+
+    <div class="scoreDisplay">Computer Score: 
+        <span id="computerScoreDisplay">0</span>
+    </div> <!--the computer's score dynamically gets displayed here-->
+<script src="script.js"></script>
+
+</body>
+</html>
