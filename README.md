@@ -2,4 +2,4 @@
 
 Rock-Paper Scissors:
 
-A dynamic rock-paper-scissors game made using javascript 
+A dynamic rock-paper-scissors game made using javascript.
