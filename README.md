@@ -12,4 +12,4 @@ The function gameOn() takes in the player's choice of either rock, paper or scis
 
 The player score is dynamically added as well as the computer score each time the player selects either rock,paper or scissors. 
 
-After every game the result resets, but the score stay keeping count and is displayed at the bottom of the page.  
+After every game the winner result resets, but the score stay keeping count and is displayed at the bottom of the page.  
