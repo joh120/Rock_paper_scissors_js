@@ -8,7 +8,7 @@ Pseudo-code:
 
 The game takes one function 
 
-The function gameOn() takes in the the player choice of either rock, paper or scissors and generates the computer random choice. Gameon() checks if the player choice and computer choice is tied or depending on the choices determine a winner between the user and the computer. 
+The function gameOn() takes in the player's choice of either rock, paper or scissors and generates the computer random choice. Gameon() checks if the player choice and computer choice is tied or depending on the choices determines a winner between the user and the computer. 
 
 The player score is dynamically added as well as the computer score each time the player selects either rock,paper or scissors. 
 
