@@ -4,7 +4,7 @@ Rock-Paper Scissors:
 
 A dynamic rock-paper-scissors game made using javascript.
 
-Pseudo code:
+Pseudo-code:
 
 The game takes one function 
 
